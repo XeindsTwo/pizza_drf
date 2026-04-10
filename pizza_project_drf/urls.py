@@ -6,3 +6,4 @@ urlpatterns = [
     path('api/', include('pizzas.urls'))
 ]
 # test
+# test2
